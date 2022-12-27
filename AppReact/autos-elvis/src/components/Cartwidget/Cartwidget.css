@@ -1,0 +1,14 @@
+
+.num{
+    color: aliceblue;
+    padding: 1%;
+    max-width: 80%;
+    max-height: auto;
+    background-color:rebeccapurple;
+}
+.cart{
+    padding: 1%;
+    max-width: 20%;
+    max-height: auto;
+    background-color: aqua;
+}

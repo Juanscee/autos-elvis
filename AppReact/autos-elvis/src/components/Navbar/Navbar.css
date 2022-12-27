@@ -1,0 +1,13 @@
+.hu {
+    display: flexbox;
+    margin: 5px;
+    padding: 5px;
+    background-color: rebeccapurple;
+
+}
+.nav {
+    display: flexbox;
+    padding: 5px;
+    background-color: rebeccapurple;
+
+}
